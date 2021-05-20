@@ -1,3 +1,6 @@
-# Decola Dev Avanade 2021
+# Digital Innovation One
 
-## Decola Dev é uma combinação de jornada de aceleração e programa de estágio onde os talentos poderão fazer parte de um Bootcamp com mais de 80 horas de duração para se prepararem para o processo seletivo de estágio da Avanade, uma empresa global, joint venture da Microsoft e Accenture, que faz a tecnologia acontecer.
+ACELERE SUA CARREIRA
+NA VELOCIDADE DO MERCADO.
+
+Domine as tecnologias utilizadas pelas empresas mais inovadoras do mundo construindo projetos em conjunto com a nossa comunidade colaborativa de +350 mil desenvolvedores..
